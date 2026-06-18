@@ -1,13 +1,13 @@
 # Saladict 沙拉查词
 
 [![Version](https://badgen.net/github/tag/crimx/ext-saladict?label=version&icon=github&color=6D5DFB)](https://github.com/crimx/ext-saladict/releases)
-[![Build Status](https://github.com/crimx/ext-saladict/actions/workflows/build.yml/badge.svg)](https://github.com/crimx/ext-saladict/actions/workflows/build.yml)  
+[![Build Status](https://github.com/crimx/ext-saladict/actions/workflows/build.yml/badge.svg)](https://github.com/crimx/ext-saladict/actions/workflows/build.yml)
 [![Edge Addons version](https://badgen.net/edge-addons/v/idghocbbahafpfhjnfhpbfbmpegphmmp?icon=windows&color=0078d4&label=version)](https://microsoftedge.microsoft.com/addons/detail/idghocbbahafpfhjnfhpbfbmpegphmmp)
 [![Edge Addons stars](https://badgen.net/edge-addons/stars/idghocbbahafpfhjnfhpbfbmpegphmmp?icon=windows&color=0078d4)](https://microsoftedge.microsoft.com/addons/detail/idghocbbahafpfhjnfhpbfbmpegphmmp)
-[![Edge Addons users](https://badgen.net/edge-addons/users/idghocbbahafpfhjnfhpbfbmpegphmmp?icon=windows&color=0078d4)](https://microsoftedge.microsoft.com/addons/detail/idghocbbahafpfhjnfhpbfbmpegphmmp)  
+[![Edge Addons users](https://badgen.net/edge-addons/users/idghocbbahafpfhjnfhpbfbmpegphmmp?icon=windows&color=0078d4)](https://microsoftedge.microsoft.com/addons/detail/idghocbbahafpfhjnfhpbfbmpegphmmp)
 [![Chrome Web Store version](https://badgen.net/chrome-web-store/v/cdonnmffkdaoajfknoeeecmchibpmkmg?icon=chrome&color=0f9d58&label=version)](https://chrome.google.com/webstore/detail/cdonnmffkdaoajfknoeeecmchibpmkmg)
 [![Chrome Web Store stars](https://badgen.net/chrome-web-store/stars/cdonnmffkdaoajfknoeeecmchibpmkmg?icon=chrome&color=0f9d58)](https://chrome.google.com/webstore/detail/cdonnmffkdaoajfknoeeecmchibpmkmg)
-[![Chrome Web Store users](https://badgen.net/chrome-web-store/users/cdonnmffkdaoajfknoeeecmchibpmkmg?icon=chrome&color=0f9d58)](https://chrome.google.com/webstore/detail/cdonnmffkdaoajfknoeeecmchibpmkmg)  
+[![Chrome Web Store users](https://badgen.net/chrome-web-store/users/cdonnmffkdaoajfknoeeecmchibpmkmg?icon=chrome&color=0f9d58)](https://chrome.google.com/webstore/detail/cdonnmffkdaoajfknoeeecmchibpmkmg)
 [![Firefox Add-ons version](https://badgen.net/amo/v/ext-saladict?icon=firefox&color=ff9500&label=version)](https://addons.mozilla.org/firefox/addon/ext-saladict/)
 [![Firefox Add-ons stars](https://badgen.net/amo/stars/ext-saladict?icon=firefox&color=ff9500)](https://addons.mozilla.org/firefox/addon/ext-saladict/)
 [![Firefox Add-ons users](https://badgen.net/amo/users/ext-saladict?icon=firefox&color=ff9500)](https://addons.mozilla.org/firefox/addon/ext-saladict/)
@@ -72,10 +72,6 @@ The Saladict name, the 沙拉查词 name, logos, icons, and related brand assets
 DO NOT use Saladict for any illegal or criminal activity. Saladict strongly condemns this behavior and will cooperate to the fullest extent possible in holding it accountable.
 
 ## More screenshots:
-
-<p align="center">
-  <a href="https://github.com/crimx/ext-saladict/releases/" target="_blank"><img src="https://github.com/crimx/ext-saladict/wiki/images/youdao-page.gif" /></a>
-</p>
 
 <p align="center">
   <a href="https://github.com/crimx/ext-saladict/releases/" target="_blank"><img src="https://github.com/crimx/ext-saladict/wiki/images/screen-notebook.png" /></a>
