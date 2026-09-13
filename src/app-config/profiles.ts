@@ -180,7 +180,6 @@ export function nihongo(): ProfileStorage {
     'weblioejje',
     'weblio',
     'google',
-    'tencent',
     'caiyun',
     'wikipedia'
   ]
